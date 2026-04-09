@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/12391d48-7e2a-433b-97c9-372a7ea6bc04
+
+https://github.com/user-attachments/assets/259cd90f-370a-4095-8aa0-203817ed12d8
 # 컴퓨터 비전 비디오 분석 실습 (SORT 다중 객체 추적, MediaPipe FaceMesh)
 
 컴퓨터 비전 수업의 6번째 실습 과제 저장소입니다.  
@@ -903,7 +907,9 @@ if __name__ == "__main__":
 
 *(SORT 추적 결과 - 비디오의 각 프레임에서 객체가 고유 ID와 경계상자로 추적되며, 이동 궤적이 선으로 표시됩니다.)*
 
-결과 비디오: `result/01_sort_tracking.mp4` (914프레임 전체 처리 완료)
+결과 비디오: Uploading 01_sort_tracking.mp4…
+
+(914프레임 전체 처리 완료)
 
 ### 5. 결과 해석
 - YOLOv3로 프레임당 객체를 검출하고, SORT 알고리즘의 **칼만 필터 예측 + 헝가리안 매칭**을 통해 각 객체에 고유 ID를 부여하여 안정적으로 추적했습니다.
@@ -1235,7 +1241,9 @@ if __name__ == "__main__":
 ### 4. 최종 결과물
 *(FaceMesh 랜드마크 검출 결과 - 웹캠에서 실시간으로 468개 랜드마크가 점으로 표시되며, 그물망/윤곽선/눈동자가 함께 시각화됩니다.)*
 
-결과 비디오: `result/02_facemesh_landmark.mp4` (실행 시작~ESC 종료까지 전체 녹화)
+결과 비디오: Uploading 02_facemesh_landmark.mp4…
+
+(실행 시작~ESC 종료까지 전체 녹화)
 
 ### 5. 결과 해석
 - MediaPipe FaceMesh를 사용하여 **468개의 3D 얼굴 랜드마크**를 실시간으로 검출하고 시각화했습니다.
