@@ -1,7 +1,5 @@
 
-https://github.com/user-attachments/assets/12391d48-7e2a-433b-97c9-372a7ea6bc04
-
-https://github.com/user-attachments/assets/259cd90f-370a-4095-8aa0-203817ed12d8
+https://github.com/user-attachments/assets/12ccf451-e770-4bb6-9271-280622cd6675
 # 컴퓨터 비전 비디오 분석 실습 (SORT 다중 객체 추적, MediaPipe FaceMesh)
 
 컴퓨터 비전 수업의 6번째 실습 과제 저장소입니다.  
@@ -908,6 +906,7 @@ if __name__ == "__main__":
 *(SORT 추적 결과 - 비디오의 각 프레임에서 객체가 고유 ID와 경계상자로 추적되며, 이동 궤적이 선으로 표시됩니다.)*
 
 결과 비디오: Uploading 01_sort_tracking.mp4…
+
 
 (914프레임 전체 처리 완료)
 
