@@ -905,7 +905,7 @@ if __name__ == "__main__":
 
 결과 비디오: 
 
-https://github.com/user-attachments/assets/1a6f06b1-358e-4681-afd3-a98f5853c90a
+https://github.com/user-attachments/assets/e47c0efb-0c29-453f-a371-63fe9f13922d
 
 (914프레임 전체 처리 완료)
 
@@ -1241,7 +1241,7 @@ if __name__ == "__main__":
 
 결과 비디오: 
 
-https://github.com/user-attachments/assets/e47c0efb-0c29-453f-a371-63fe9f13922d
+https://github.com/user-attachments/assets/1a6f06b1-358e-4681-afd3-a98f5853c90a
 
 (실행 시작~ESC 종료까지 전체 녹화)
 
