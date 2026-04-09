@@ -903,8 +903,7 @@ if __name__ == "__main__":
 
 *(SORT 추적 결과 - 비디오의 각 프레임에서 객체가 고유 ID와 경계상자로 추적되며, 이동 궤적이 선으로 표시됩니다.)*
 
-결과 비디오: Uploading 01_sort_tracking.mp4…
-https://github.com/user-attachments/assets/1a6f06b1-358e-4681-afd3-a98f5853c90a
+결과 비디오: https://github.com/user-attachments/assets/1a6f06b1-358e-4681-afd3-a98f5853c90a
 
 (914프레임 전체 처리 완료)
 
@@ -1238,9 +1237,7 @@ if __name__ == "__main__":
 ### 4. 최종 결과물
 *(FaceMesh 랜드마크 검출 결과 - 웹캠에서 실시간으로 468개 랜드마크가 점으로 표시되며, 그물망/윤곽선/눈동자가 함께 시각화됩니다.)*
 
-결과 비디오: Uploading 02_facemesh_landmark.mp4…
-https://github.com/user-attachments/assets/e47c0efb-0c29-453f-a371-63fe9f13922d
-
+결과 비디오: https://github.com/user-attachments/assets/e47c0efb-0c29-453f-a371-63fe9f13922d
 
 (실행 시작~ESC 종료까지 전체 녹화)
 
